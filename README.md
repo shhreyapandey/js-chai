@@ -1,2 +1,2 @@
 # js-chai
-javascript basics repo
+javascript basics practice repo
